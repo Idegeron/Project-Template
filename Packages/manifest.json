@@ -2,6 +2,7 @@
   "dependencies": {
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.saint.wtf.extras": "https://github.com/Pandora-St/saint.wtf.extras.git",
     "com.unity.addressables": "1.16.19",
     "com.unity.collab-proxy": "1.7.1",
     "com.unity.ide.rider": "2.0.7",
